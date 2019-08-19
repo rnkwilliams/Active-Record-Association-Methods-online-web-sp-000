@@ -19,5 +19,4 @@ class Artist < ActiveRecord::Base
     end
     genres.compact.count
   end
-  end
 end
